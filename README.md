@@ -1,7 +1,3 @@
-Here’s a sample README for your GitHub project, covering the steps you've mentioned:
-
----
-
 # E-Commerce Website with Django
 
 This is a Django-based e-commerce website project. It allows users to browse products, manage their cart, and perform various e-commerce operations. This README will guide you through setting up and running the project on your local machine.
@@ -74,7 +70,7 @@ Run the database migrations to set up your database tables.
 python manage.py migrate
 ```
 
-### 7. Create a Superuser (Optional)
+### 7. Create a Superuser
 If you want to access the admin panel, create a superuser.
 
 ```bash
