@@ -91,7 +91,7 @@ python manage.py runserver
 Visit `http://127.0.0.1:8000/` in your browser to view the website.
 
 ### 9. Additional Configurations
-Make sure to update your `settings.py` for MySQL database connection and other project-specific configurations.
+Make sure to update your `settings.py` for MySQL database connection and other project-specific configurations like adding applications.
 
 ---
 
